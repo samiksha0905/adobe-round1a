@@ -1,0 +1,89 @@
+{
+  "title": "DATA STRUCTURES THROUGH",
+  "headings": [
+    {
+      "text": "DATA STRUCTURES THROUGH",
+      "level": "H1",
+      "page": 1
+    },
+    {
+      "text": "C++",
+      "level": "H1",
+      "page": 1
+    },
+    {
+      "text": "UNIT- III",
+      "level": "H3",
+      "page": 2
+    },
+    {
+      "text": "STACK",
+      "level": "H3",
+      "page": 3
+    },
+    {
+      "text": "Initially the top is initialized to -1.",
+      "level": "H3",
+      "page": 5
+    },
+    {
+      "text": "INFIX TO POSTFIX CONVERSION USING STACKS",
+      "level": "H3",
+      "page": 15
+    },
+    {
+      "text": "Basic:-",
+      "level": "H2",
+      "page": 15
+    },
+    {
+      "text": "Inﬁx Expression:",
+      "level": "H2",
+      "page": 15
+    },
+    {
+      "text": "Postﬁx Expression",
+      "level": "H2",
+      "page": 15
+    },
+    {
+      "text": "EVALUATION OF POSTFIX EXPRESSION",
+      "level": "H3",
+      "page": 22
+    },
+    {
+      "text": "Parsing Parenthesis",
+      "level": "H3",
+      "page": 26
+    },
+    {
+      "text": "Reverse Of A String Using Stack",
+      "level": "H3",
+      "page": 30
+    },
+    {
+      "text": "QUEUE ADT",
+      "level": "H3",
+      "page": 33
+    },
+    {
+      "text": "A queue is an ordered collection of data such that the data is",
+      "level": "H3",
+      "page": 33
+    },
+    {
+      "text": "Representing a Queue:",
+      "level": "H3",
+      "page": 34
+    },
+    {
+      "text": "Operations on Queue:",
+      "level": "H2",
+      "page": 36
+    }
+  ],
+  "metadata": {
+    "page_count": 51,
+    "source_file": "DSC++ Unit 3 PPT .pdf"
+  }
+}
